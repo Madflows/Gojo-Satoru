@@ -23,21 +23,21 @@ global.owner = ['+2348080848665']
 global.premium = ['+2348080848665']
 global.ownernomer = '+2348080848665'
 global.ownername = '🐦The Great Madflows'
-global.botname = 'Pepe-Frog'
+global.botname = 'Gojo-Satoru'
 global.footer = '©madflows.'
 global.ig = 'https://github.com/madflows'
 global.region = 'Lagos, Nigeria'
 global.sc = 'https://github.com/'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'King Madflows'
-global.author = '🐦The great Madflows'
+global.myweb = 'https://www.youtube.com/channel/UC_FiMx-mMd5Ym1xIGzbjgIw'
+global.packname = 'Chin Chin'
+global.author = '🐦The Great Madflows'
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['-','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
+    admin: 'Lol, This Feature Is Only For Admin!',
+    botAdmin: 'Bot Must Be an Admin First!',
     owner: 'This Feature Is Only For Owner!',
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
