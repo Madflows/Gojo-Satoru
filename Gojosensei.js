@@ -3357,6 +3357,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 │「 Hi 👋 」
 └┬❖ 「 ${pushname} 」
 ┌┤✑  Daijobka sempai?😄
+││✑  I hate GAYS!!!
 │└───────────────┈ ⳹
 │ 「 BOT INFO 」
 │✙ 𝗦𝗽𝗲𝗲𝗱 : ${latensie.toFixed(4)} miliseconds
